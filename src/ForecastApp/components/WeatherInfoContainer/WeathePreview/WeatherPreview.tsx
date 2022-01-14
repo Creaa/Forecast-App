@@ -5,8 +5,6 @@ import { List, WeatherDataItems } from "../../../interfaces/interfaces";
 import WeatherPreviewDataTool from "./WeatherPreviewDateTool/WheatherPreviewDataTool";
 import WeatherPreviewInfo from "./WeatherPreviewInfo/WeatherPreviewInfo";
 
-// Todo: change name of that component.
-
 const Container = styled.div`
   width: 60%;
   display: flex;
